@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1760 357" role="img" aria-label="HealthView">
+  <path fill="#EE7518" d="M0 67h122a221.500 178 0 0 0 443 0h121a343 290 0 0 1-686 0z"/>
+  <circle fill="#4285C7" cx="343" cy="93" r="91"/>
+  <text x="776" y="182" fill="#4285C7" font-family="Montserrat, 'Segoe UI', Arial, sans-serif" font-size="196" letter-spacing="-6"><tspan font-weight="300">Health</tspan><tspan font-weight="800">View</tspan></text>
+</svg>
